@@ -1,0 +1,6 @@
+{
+  "name": "Barokah Tech Jambi Academy",
+  "description": "Platform edukasi kursus teknologi, pelatihan IoT, dan penjualan kit robotika berkualitas dari Barokah Tech Jambi Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
